@@ -1,3 +1,3 @@
-# project-aleph
+# aleph
 
-achieving superintelligence by building long contenxt agents
+achieving superintelligence by building long context agents
