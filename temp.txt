@@ -1,3 +1,0 @@
-- orcheastator entity -> capable of patterns or loops + agent -> how to call the process
- -> mapping and others , channels and invoke the agent according to the protocol chain -> prompt
-
